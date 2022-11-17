@@ -88,3 +88,10 @@ section#img02{
     background-position: right center;
     
 }
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    font-family: var(--fonte1);
+}
